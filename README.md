@@ -1,8 +1,11 @@
-# React + Vite
+**🔥 ProgressPlanner**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Login Page:**
+![Screenshot (214)](https://github.com/prakhar-1005/Progress-Planner-Frontend/assets/94559623/25fdd65e-ffed-4f0a-9e75-91727fccb318)
 
-Currently, two official plugins are available:
+**Signup Page**
+![Screenshot (215)](https://github.com/prakhar-1005/Progress-Planner-Frontend/assets/94559623/31375504-2bda-46ee-b6eb-0c2ea85f11ad)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Home Page**
+![Screenshot (216)](https://github.com/prakhar-1005/Progress-Planner-Frontend/assets/94559623/7280ecb6-a283-490f-b776-6b96bff5170e)
+![Screenshot (217)](https://github.com/prakhar-1005/Progress-Planner-Frontend/assets/94559623/12f1ed88-64ed-4730-915b-ebedee7ffd43)
