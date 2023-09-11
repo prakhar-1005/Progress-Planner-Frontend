@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-progress-bar{
+    accent-color:#30E3CA;
+}
